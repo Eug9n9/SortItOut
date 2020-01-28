@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02d25e01-fa06-4bf5-a186-a9568a6dcf3b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>asLi</find>
+      <find>add</find>
+    </findStrings>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1920" />
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectId" id="1Wu0WeoVf5k7PfgJK6Od2lTtFTl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556129017685" />
+    <property name="extract.method.default.visibility" value="packageLocal" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LongestSequesnce">
+    <configuration name="DFS" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.test.DFS" />
+      <module name="SortItOut" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestSequesnce" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.test.LongestSequesnce" />
+      <module name="SortItOut" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.Main" />
+      <module name="SortItOut" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Router" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.test.Router" />
+      <module name="SortItOut" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Toys" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.Toys" />
+      <module name="SortItOut" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tree" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.test.BTree" />
+      <module name="SortItOut" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Toys" />
+      <item itemvalue="Application.Router" />
+      <item itemvalue="Application.LongestSequesnce" />
+      <item itemvalue="Application.Tree" />
+      <item itemvalue="Application.DFS" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02d25e01-fa06-4bf5-a186-a9568a6dcf3b" name="Default Changelist" comment="" />
+      <created>1555008318483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555008318483</updated>
+      <workItem from="1555008322734" duration="20974000" />
+      <workItem from="1571415624737" duration="13793000" />
+      <workItem from="1571928013750" duration="170000" />
+      <workItem from="1579984207679" duration="461000" />
+      <workItem from="1580064433697" duration="155000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580064569008">
+      <screen x="0" y="23" width="1680" height="951" />
+    </state>
+    <state x="304" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.951@0.23.1680.951" timestamp="1580064569008" />
+    <state x="577" y="289" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580064561287">
+      <screen x="0" y="23" width="1680" height="951" />
+    </state>
+    <state x="577" y="289" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1680.951@0.23.1680.951" timestamp="1580064561287" />
+    <state width="1358" height="253" key="GridCell.Tab.0.bottom" timestamp="1580064588514">
+      <screen x="0" y="23" width="1680" height="951" />
+    </state>
+    <state width="1358" height="253" key="GridCell.Tab.0.bottom/0.23.1680.951@0.23.1680.951" timestamp="1580064588514" />
+    <state width="1358" height="253" key="GridCell.Tab.0.center" timestamp="1580064588513">
+      <screen x="0" y="23" width="1680" height="951" />
+    </state>
+    <state width="1358" height="253" key="GridCell.Tab.0.center/0.23.1680.951@0.23.1680.951" timestamp="1580064588513" />
+    <state width="1358" height="253" key="GridCell.Tab.0.left" timestamp="1580064588513">
+      <screen x="0" y="23" width="1680" height="951" />
+    </state>
+    <state width="1358" height="253" key="GridCell.Tab.0.left/0.23.1680.951@0.23.1680.951" timestamp="1580064588513" />
+    <state width="1358" height="253" key="GridCell.Tab.0.right" timestamp="1580064588513">
+      <screen x="0" y="23" width="1680" height="951" />
+    </state>
+    <state width="1358" height="253" key="GridCell.Tab.0.right/0.23.1680.951@0.23.1680.951" timestamp="1580064588513" />
+  </component>
+</project>
